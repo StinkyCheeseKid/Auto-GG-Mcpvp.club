@@ -1,0 +1,6 @@
+{
+  "mod.auto-gg-mod.title": "Auto GG Mod",
+  "mod.auto-gg-mod.description": "Automatically sends 'gg' when a match completes",
+  "key.autogg.sendgg": "Send GG",
+  "category.autogg.main": "Auto GG Mod"
+}
